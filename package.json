@@ -1,7 +1,7 @@
 {
   "name": "react-chatbot-gpt3",
   "version": "0.1.0",
-  "homepage": "https://ming233.github.io/react-chatbot-gpt3",
+  "homepage": "https://ming233.github.io/React-Chatbot-GPT3",
   "private": true,
   "dependencies": {
     "@chatui/core": "^2.4.2",
